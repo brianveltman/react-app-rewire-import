@@ -1,0 +1,30 @@
+{
+  "name": "react-app-rewire-import",
+  "version": "0.0.1",
+  "description": "Add babel-plugin-import to a create-react-app app via react-app-rewired.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianveltman/react-app-rewire-import.git"
+  },
+  "keywords": [
+    "babel-plugin-import",
+    "create-react-app",
+    "import",
+    "react-app-rewired",
+    "react-app-rewire-import",
+    "antd"
+  ],
+  "author": "Brian Veltman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brianveltman/react-app-rewire-import/issues"
+  },
+  "homepage": "https://github.com/brianveltman/react-app-rewire-import#readme",
+  "dependencies": {
+    "babel-plugin-import": "1.6.3"
+  }
+}
