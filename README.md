@@ -5,6 +5,8 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/brianveltman/react-app-rewire-import.svg)](https://github.com/brianveltman/react-app-rewire-import)
 [![npm](https://img.shields.io/npm/l/react-app-rewire-import.svg)](https://www.npmjs.com/package/react-app-rewire-import)
 
+Compatible and tested with [create-react-app@1.0.17](https://github.com/facebookincubator/create-react-app)
+
 Add the [import babel plugin](https://github.com/ant-design/babel-plugin-import) to [create-react-app](https://github.com/facebookincubator/create-react-app) using [react-app-rewired](https://github.com/timarney/react-app-rewired)
 
 ## Installation
