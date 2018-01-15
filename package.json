@@ -1,6 +1,6 @@
 {
   "name": "react-app-rewire-import",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Add babel-plugin-import to a create-react-app app via react-app-rewired.",
   "main": "src/index.js",
   "scripts": {
